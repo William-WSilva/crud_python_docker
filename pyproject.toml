@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "crud-python-docker"
+version = "0.1.0"
+description = "meu_projeto_crud_python"
+authors = ["William Silva"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
